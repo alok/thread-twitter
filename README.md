@@ -47,3 +47,8 @@ days. Run this script on threads you like sooner rather than later.
 
 If you have any questions, ask me on
 [Twitter](https://twitter.com/therevaloksingh) or on the issue tracker.
+
+## TODO
+
+Add proper threading like Mutt has. Maybe even with the fancy arrows it
+draws. [This](https://www.jwz.org/doc/threading.html) looks handy.
