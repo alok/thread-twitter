@@ -24,7 +24,7 @@ up your API keys:
 -   `TWITTER_KEY`
 -   `TWITTER_SECRET`
 -   `TWITTER_TOKEN`
--   `TWITTER_TOKEN_SECREt`
+-   `TWITTER_TOKEN_SECRET`
 
 ## Usage
 
